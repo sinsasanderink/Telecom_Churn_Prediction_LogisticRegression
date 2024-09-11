@@ -49,9 +49,10 @@ Apply scaling techniques (e.g., standardization) to ensure the model performs op
 
 ## Correlation Analysis
 
-Explore the correlation between features to understand their relationships. Below is a correlation heatmap:
+As we can see, the following factors seem to impact churn rate: 
+* 
 
-![Correlation Heatmap](./correlation.png)
+![Correlation Heatmap](./corr.png)
 
 ## Model Building
 
