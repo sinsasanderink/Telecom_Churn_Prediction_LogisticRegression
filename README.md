@@ -50,7 +50,10 @@ Apply scaling techniques (e.g., standardization) to ensure the model performs op
 ## Correlation Analysis
 
 As we can see, the following factors seem to impact churn rate: 
-* 
+* Tenure (negative correlation)
+* Contract length
+* Online Security
+* Tech support
 
 ![Correlation Heatmap](./corr.png)
 
