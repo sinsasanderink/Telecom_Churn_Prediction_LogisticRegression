@@ -1,3 +1,5 @@
+![logo](./telecom.png)
+
 # Telecom Churn Case Study
 
 With 21 predictor variables, this project aims to predict whether a customer will switch to another telecom provider (churn) or remain loyal (not churn). This is a critical task for telecom companies to improve customer retention strategies.
